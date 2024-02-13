@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi, my name is Nat
+
+This is my GitHub page! I primarily use this account for work and school. I self-host my own Forgejo instance where you'll find my projects:
+
+[nat @ git.nats.solutions](https://git.nats.solutions/nat)
+
+Some projects I've left up here because they have previously recieved contributions from other GitHub users, but my primary home is on Forgejo!
 
 <!--
 **natjms/natjms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
